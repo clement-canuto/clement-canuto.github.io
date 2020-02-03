@@ -4,8 +4,12 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Contact - Canuto Design</title>
+    <title>Hire me - Canuto Design</title>
+    <meta property="og:type" content="website">
+    <meta name="" content="">
+    <meta name="description" content="Je suis Clément CANUTO, graphiste indépendant, spécialisé dans la conception d'identité visuelle à Rennes">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="manifest" href="manifest.json">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">
@@ -43,31 +47,35 @@
                 class="collapse navbar-collapse" id="navbarNav">
                 <ul class="nav navbar-nav ml-auto">
                     <li class="nav-item" role="presentation"><a class="nav-link" href="index.html">Accueil</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="projects-compact-grid.html">Réalisations</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="hire-me.html">Contact</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="portfolio.html">Réalisations</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link active" href="contact.html">Contact</a></li>
                 </ul>
         </div>
         </div>
     </nav>
-    <main class="page contact-page">
-        <section class="portfolio-block contact">
+    <main class="page hire-me-page">
+        <section class="portfolio-block hire-me">
             <div class="container">
                 <div class="heading">
-                    <h2>Contact me</h2>
+                    <h2>Travaillons ensemble !</h2>
                 </div>
-                <form>
-                    <div class="form-group"><label for="name">Your Name</label><input class="form-control item" type="text" id="name"></div>
-                    <div class="form-group"><label for="subject">Subject</label><input class="form-control item" type="text" id="subject"></div>
-                    <div class="form-group"><label for="email">Email</label><input class="form-control item" type="email" id="email"></div>
-                    <div class="form-group"><label for="message">Message</label><textarea class="form-control item" id="message"></textarea></div>
-                    <div class="form-group"><button class="btn btn-primary btn-block btn-lg" type="submit">Submit Form</button></div>
-                </form>
+                <form data-aos="flip-left" class="pageclip-form" action="https://send.pageclip.co/zGYlqIeQ36crhDrK4qPDxpyMOcCnZi6A/contact_form" method="post">
+                    <div class="form-group"><label for="subject">Sujet</label><select class="form-control" id="subject" name="subject"><option value="Demande d'information" selected="">Demande d'information</option><option value="1Demande de devis">Demande de devis</option><option value="Création de logo">Création de logo</option><option value="Identité visuelle">Identité visuelle</option></select></div>
+                    <div
+                        class="form-group"><label for="email">Email</label><input class="form-control" type="email" id="message" name="email" required=""></div>
+            <div class="form-group"><label for="message">Message</label><textarea class="form-control" id="hire-date" type="date" name="message" required=""></textarea></div>
+            <div class="form-group">
+                <div class="form-row">
+                    <div class="col-md-6 button"><button class="btn btn-primary btn-block pageclip-form__submit" type="submit">Me contacter !</button></div>
+                </div>
+            </div>
+            </form>
             </div>
         </section>
     </main>
     <footer class="page-footer">
         <div class="container">
-            <div class="links"><a href="index.html">A propos</a><a href="hire-me.html">Me contacter</a><a href="projects-compact-grid.html">Portfolio</a></div>
+            <div class="links"><a href="index.html">A propos</a><a href="contact.html">Me contacter</a><a href="portfolio.html">Portfolio</a></div>
             <div class="social-icons"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-instagram-outline"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a></div>
         </div>
     </footer>
