@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="533"
+   viewBox="0 0 211.66667 141.02291"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="kenu_portfolio.svg"
+   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   inkscape:export-filename="/home/canuto/Documents/Repos/clement-canuto.github.io/assets/img/portfolio/png/kenu.png"
+   inkscape:export-xdpi="96.360001"
+   inkscape:export-ydpi="96.360001">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2095">
+      <stop
+         style="stop-color:#aaffee;stop-opacity:1;"
+         offset="0"
+         id="stop2091" />
+      <stop
+         style="stop-color:#aaffee;stop-opacity:0;"
+         offset="1"
+         id="stop2093" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="36.040169 : 180.89227 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_z="377.10964 : 188.7993 : 1"
+       inkscape:persp3d-origin="148.5 : 69.999998 : 1"
+       id="perspective4016" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2351-2">
+      <stop
+         id="stop2349"
+         offset="0"
+         style="stop-color:#161650;stop-opacity:0;" />
+      <stop
+         id="stop2347"
+         offset="1"
+         style="stop-color:#161650;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2288"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#161650;stop-opacity:1;"
+         offset="0"
+         id="stop2286" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2351-2"
+       id="radialGradient2355"
+       cx="234.94948"
+       cy="138.57697"
+       fx="234.94948"
+       fy="138.57697"
+       r="150.18564"
+       gradientTransform="matrix(0.24026089,0.38472414,-0.30745238,0.19200455,207.05677,22.144781)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2095"
+       id="linearGradient2097"
+       x1="168.28853"
+       y1="175.41521"
+       x2="167.81203"
+       y2="136.3428"
+       gradientUnits="userSpaceOnUse" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 185.27618,104.37774 c 0.0425,-0.23829 -2.56376,-42.812197 -2.56376,-42.812197"
+       id="path3103-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 185.27618,104.37774 c 0.0425,-0.23829 -2.56376,-42.812197 -2.56376,-42.812197"
+       id="path3103-7-4"
+       inkscape:connector-curvature="0" />
+    <linearGradient
+       gradientTransform="matrix(0.02477742,0,0,0.02477742,5.5585777,3.8925775)"
+       gradientUnits="userSpaceOnUse"
+       y2="131.41406"
+       x2="744.83594"
+       y1="1311.23"
+       x1="1148.1914"
+       id="linearGradient1290"
+       xlink:href="#linearGradient1288"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient1288"
+       inkscape:collect="always">
+      <stop
+         id="stop1284"
+         offset="0"
+         style="stop-color:#6600ff;stop-opacity:1" />
+      <stop
+         style="stop-color:#2a7fff;stop-opacity:1"
+         offset="0.20624167"
+         id="stop1292" />
+      <stop
+         id="stop1286"
+         offset="1"
+         style="stop-color:#00ffcc;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       y2="56.531139"
+       x2="702.98816"
+       y1="335.12839"
+       x1="700.97876"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1357"
+       xlink:href="#linearGradient1338"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1338">
+      <stop
+         id="stop1334"
+         offset="0"
+         style="stop-color:#2a7fff;stop-opacity:1" />
+      <stop
+         style="stop-color:#00ffcc;stop-opacity:1"
+         offset="1"
+         id="stop1336" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="845.95984"
+       x2="123.91717"
+       y1="1130.999"
+       x1="247.81763"
+       id="linearGradient1516"
+       xlink:href="#linearGradient1514"
+       inkscape:collect="always"
+       gradientTransform="matrix(0.11519679,0,0,0.11519679,47.451396,0.09065214)" />
+    <linearGradient
+       id="linearGradient1514"
+       inkscape:collect="always">
+      <stop
+         id="stop1510"
+         offset="0"
+         style="stop-color:#800033;stop-opacity:1" />
+      <stop
+         style="stop-color:#ff0066;stop-opacity:1"
+         offset="0.18577902"
+         id="stop1632" />
+      <stop
+         id="stop1512"
+         offset="1"
+         style="stop-color:#ffd42a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="56.298275"
+       x2="691.98419"
+       y1="270.19281"
+       x1="691.98419"
+       id="linearGradient1640"
+       xlink:href="#linearGradient1648"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1648">
+      <stop
+         id="stop1644"
+         offset="0"
+         style="stop-color:#ff0066;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffd42a;stop-opacity:1"
+         offset="1"
+         id="stop1646" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,-142.00012,3084.5766)"
+       y2="-16.118372"
+       x2="695.91956"
+       y1="270.19281"
+       x1="691.98419"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1660"
+       xlink:href="#linearGradient1648"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1648"
+       id="linearGradient2031"
+       gradientUnits="userSpaceOnUse"
+       x1="691.98419"
+       y1="270.19281"
+       x2="691.98419"
+       y2="56.298275" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1338"
+       id="linearGradient2033"
+       gradientUnits="userSpaceOnUse"
+       x1="700.97876"
+       y1="335.12839"
+       x2="702.98816"
+       y2="56.531139" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1338"
+       id="linearGradient2035"
+       gradientUnits="userSpaceOnUse"
+       x1="700.97876"
+       y1="335.12839"
+       x2="702.98816"
+       y2="56.531139" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1338"
+       id="linearGradient2037"
+       gradientUnits="userSpaceOnUse"
+       x1="700.97876"
+       y1="335.12839"
+       x2="702.98816"
+       y2="56.531139" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1338"
+       id="linearGradient2039"
+       gradientUnits="userSpaceOnUse"
+       x1="700.97876"
+       y1="335.12839"
+       x2="702.98816"
+       y2="56.531139" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:pagecheckerboard="true"
+     id="base"
+     pagecolor="#979797"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="268.54031"
+     inkscape:cy="312.86488"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:document-rotation="0"
+     borderlayer="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0,141.02291"
+       orientation="0,1"
+       id="guide2041"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1"
+       id="guide2043"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,141.02291"
+       orientation="-1,0"
+       id="guide2045"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="211.66666,141.02291"
+       orientation="-1,0"
+       id="guide2047"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     inkscape:export-ydpi="96"
+     inkscape:export-xdpi="96"
+     inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export(M).png"
+     y="4.4437497e-06"
+     x="2.1316282e-14"
+     height="47.007641"
+     width="211.66666"
+     id="rect1296"
+     style="display:inline;opacity:0.998;fill:#002255;fill-opacity:1;stroke:none;stroke-width:0.413839;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000" />
+  <g
+     id="g2057"
+     transform="translate(41.172185,1.1233294)">
+    <path
+       id="path1261"
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient1290);fill-opacity:1;stroke:none;stroke-width:0.0248163;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 24.012705,7.1320162 c -8.848433,0 -16.0264238,7.1781988 -16.0264238,16.0266308 0,8.848444 7.1779908,16.026448 16.0264238,16.026448 8.848432,0 16.026582,-7.178004 16.026582,-16.026448 0,-8.848432 -7.17815,-16.0266308 -16.026582,-16.0266308 z m 0.001,0.016625 c 8.59348,0 15.553928,7.4165038 15.553928,16.0099818 0,4.02819 -1.412016,7.598456 -3.92233,10.360496 -0.584557,-0.460714 -2.073408,-1.841751 -1.667687,-4.298894 -7.721898,-0.721964 -15.068228,0.491827 -22.035097,3.749138 0.02269,0.02792 0.04369,0.05703 0.0665,0.0847 -2.2186417,-2.688542 -3.5510571,-6.13578 -3.5510571,-9.895426 0,-8.593478 6.9621831,-16.0099817 15.5556621,-16.0099817 z m 4.456166,1.5285542 c -16.273467,-5.3716115 -8.136734,-2.6857997 0,0 z M 26.16408,9.4850225 c -6.848062,2.9493095 -9.227737,6.7252505 -12.263769,9.5893025 3.274519,2.001159 7.067182,3.600469 9.415698,6.99895 1.0762,-0.60601 1.65202,-0.807366 2.359024,-1.09564 z m 3.401467,14.9746985 c -2.471241,0.650531 -5.101442,1.680378 -7.63088,3.244195 l -1.892424,0.07086 c 0.868134,-0.782939 2.690896,-3.102065 0.658248,-2.079413 -2.13886,1.267303 -6.111366,5.202145 -6.801393,5.896006 1.018041,-0.415477 1.078518,-0.51584 3.268778,-1.113622 l 2.239502,-2.039056 1.482529,-0.04283 c -0.698679,0.49623 -1.35984,1.038815 -1.965352,1.631635 3.903329,-1.269876 7.766832,-1.513132 11.948593,-1.461732 -0.105204,-0.09963 0.09526,-2.585413 -1.655976,-3.191204 z m 0.493987,0.02852 -0.266845,0.700972 c 1.549327,0.599153 1.42108,2.550296 1.563403,3.364603 l 2.760693,0.176967 c 0.307506,-0.935917 1.245595,-2.2184 2.410861,-2.739883 l 0.350608,-0.828794 c -4.501112,-0.706192 -4.814964,-0.504447 -6.81872,-0.673865 z"
+       sodipodi:nodetypes="sssssssccccssscccccccccccccccccccccccccc"
+       inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       aria-label="KENU"
+       id="text1300"
+       style="font-style:normal;font-weight:normal;font-size:273.785px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient1357);fill-opacity:1;stroke:none;stroke-width:1.42596"
+       transform="matrix(0.11519679,0,0,0.11519679,-0.26831888,0.61981957)"
+       inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="m 442.93075,169.26133 v 100.93148 h -27.6726 V 56.298276 h 27.6726 v 67.376774 l 50.53259,-67.376774 h 35.02523 l -65.63889,87.964124 50.90094,56.15218 30.78004,69.77823 h -33.55471 l -23.9432,-56.40675 -42.23042,-46.79736 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:273.785px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient2033);fill-opacity:1;stroke-width:1.42596"
+         id="path1340"
+         sodipodi:nodetypes="ccccccccccccccc" />
+      <path
+         d="M 691.9842,56.298276 V 83.970881 H 604.42113 V 149.3424 h 30.41307 l 6.72534,13.78996 -6.72534,13.88264 h -30.41307 v 65.37152 h 87.56307 v 27.80629 H 576.74852 l -0.0213,-94.91143 -7.1719,-11.86861 6.9844,-12.51994 0.20875,-94.594554 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:273.785px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient2035);fill-opacity:1;stroke-width:1.42596"
+         id="path1342"
+         sodipodi:nodetypes="ccccccccccccccccc" />
+      <path
+         d="m 728.61362,56.298276 h 25.26629 L 842.1114,148.11134 V 56.298276 h 27.80629 V 270.19281 h -24.19682 l -0.95875,-78.53376 -88.4759,-90.82171 v 169.35547 h -27.6726 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:273.785px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient2037);fill-opacity:1;stroke-width:1.42596"
+         id="path1344"
+         sodipodi:nodetypes="cccccccccccc" />
+      <path
+         d="m 1027.5312,56.298276 h 27.8063 V 206.96024 q -3.6094,25.80103 -21.2557,43.58101 -21.3895,21.38945 -51.46841,21.38945 -30.07892,0 -51.46837,-21.25577 -21.25577,-21.38945 -21.25577,-51.46837 V 56.298276 h 27.80629 V 199.20656 q 0,18.44841 13.10104,31.68313 13.23473,13.10104 31.81681,13.10104 18.71581,0 31.81681,-13.10104 13.101,-13.10104 13.101,-31.68313 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:273.785px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient2039);fill-opacity:1;stroke-width:1.42596"
+         id="path1346" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.75967px;line-height:1.25;font-family:sans-serif;letter-spacing:1.11493px;word-spacing:0px;display:inline;fill:#2789fb;fill-opacity:1;stroke:none;stroke-width:0.168992"
+       x="47.206993"
+       y="39.080296"
+       id="text1304"
+       inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1302"
+         x="47.206993"
+         y="39.080296"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.75967px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2789fb;fill-opacity:1;stroke-width:0.168992"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">CASUAL SURFWEAR</tspan></text>
+  </g>
+  <rect
+     style="display:inline;opacity:0.998;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.413839;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+     id="rect1296-9"
+     width="211.66666"
+     height="47.007641"
+     x="0"
+     y="47.007641"
+     inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <g
+     id="g2067"
+     transform="translate(-2.2195157,1.6525026)">
+    <path
+       sodipodi:nodetypes="sssssssccccssscccccccccccccccccccccccccc"
+       d="m 67.404399,53.610484 c -8.848433,0 -16.026425,7.178199 -16.026425,16.026631 0,8.848444 7.177992,16.026447 16.026425,16.026447 8.848432,0 16.026582,-7.178003 16.026582,-16.026447 0,-8.848432 -7.17815,-16.026631 -16.026582,-16.026631 z m 0.001,0.01662 c 8.59348,0 15.553928,7.416504 15.553928,16.009982 0,4.02819 -1.412016,7.598457 -3.92233,10.360496 -0.584557,-0.460725 -2.073408,-1.841752 -1.667687,-4.298893 -7.721898,-0.721965 -15.068228,0.491826 -22.035097,3.749138 0.02269,0.02791 0.04369,0.05703 0.0665,0.0847 -2.218642,-2.688554 -3.551058,-6.135791 -3.551058,-9.895426 0,-8.593478 6.962184,-16.009982 15.555651,-16.009982 z m 4.456166,1.528554 c -16.273467,-5.371611 -8.136734,-2.685811 0,0 z m -2.305791,0.807827 c -6.848062,2.949308 -9.227737,6.72525 -12.263769,9.589291 3.274519,2.001171 7.032417,3.634493 9.380946,7.032975 l 2.393776,-1.129653 z m 3.401467,14.974699 c -2.471241,0.65053 -5.101442,1.680378 -7.63088,3.244194 l -1.892424,0.07087 c 0.868134,-0.782941 2.690896,-3.102066 0.658248,-2.079415 -2.13886,1.267304 -6.111366,5.202145 -6.801393,5.896007 1.018041,-0.415477 1.078518,-0.51584 3.268778,-1.113623 l 2.239502,-2.039055 1.482529,-0.04283 c -0.698679,0.496231 -1.35984,1.038815 -1.965352,1.631635 3.903329,-1.269876 7.766832,-1.513132 11.948593,-1.461718 -0.105204,-0.09963 0.09526,-2.585425 -1.655976,-3.191205 z m 0.493987,0.02852 -0.266845,0.700985 c 1.549327,0.599166 1.42108,2.550296 1.563403,3.364603 l 2.760693,0.176966 c 0.307506,-0.935904 1.245595,-2.218399 2.410861,-2.739882 l 0.350608,-0.828783 c -4.501112,-0.70619 -4.814964,-0.504458 -6.81872,-0.673889 z"
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0248163;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="path1261-7"
+       inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       transform="matrix(0.11519679,0,0,0.11519679,43.123357,47.098288)"
+       style="font-style:normal;font-weight:normal;font-size:273.785px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.42596"
+       id="text1300-6"
+       aria-label="KENU"
+       inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:nodetypes="ccccccccccccccc"
+         id="path1340-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:273.785px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:1.42596"
+         d="m 442.93075,169.26133 v 100.93148 h -27.6726 V 56.298276 h 27.6726 v 67.376774 l 50.53259,-67.376774 h 35.02523 l -65.63889,87.964124 50.90094,56.15218 30.78004,69.77823 h -33.55471 l -23.9432,-56.40675 -42.23042,-46.79736 z" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccc"
+         id="path1342-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:273.785px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:1.42596"
+         d="M 691.9842,56.298276 V 83.970881 H 604.42113 V 149.3424 h 30.41307 l 6.72534,13.78996 -6.72534,13.88264 h -30.41307 v 65.37152 h 87.56307 v 27.80629 H 576.74852 l -0.0213,-94.91143 -7.1719,-11.86861 6.9844,-12.51994 0.20875,-94.594554 z" />
+      <path
+         sodipodi:nodetypes="cccccccccccc"
+         id="path1344-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:273.785px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:1.42596"
+         d="m 728.61362,56.298276 h 25.26629 L 842.1114,148.11134 V 56.298276 h 27.80629 V 270.19281 h -24.19682 l -0.95875,-78.53376 -88.4759,-90.82171 v 169.35547 h -27.6726 z" />
+      <path
+         id="path1346-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:273.785px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:1.42596"
+         d="m 1027.5312,56.298276 h 27.8063 V 206.96024 q -3.6094,25.80103 -21.2557,43.58101 -21.3895,21.38945 -51.46841,21.38945 -30.07892,0 -51.46837,-21.25577 -21.25577,-21.38945 -21.25577,-51.46837 V 56.298276 h 27.80629 V 199.20656 q 0,18.44841 13.10104,31.68313 13.23473,13.10104 31.81681,13.10104 18.71581,0 31.81681,-13.10104 13.101,-13.10104 13.101,-31.68313 z" />
+    </g>
+    <text
+       id="text1304-8"
+       y="85.558754"
+       x="90.598701"
+       style="font-style:normal;font-weight:normal;font-size:6.75967px;line-height:1.25;font-family:sans-serif;letter-spacing:1.11493px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.168992"
+       xml:space="preserve"
+       inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.75967px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.168992"
+         y="85.558754"
+         x="90.598701"
+         id="tspan1302-8"
+         sodipodi:role="line">CASUAL SURFWEAR</tspan></text>
+  </g>
+  <rect
+     inkscape:export-ydpi="96"
+     inkscape:export-xdpi="96"
+     inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export(F).png"
+     y="94.015282"
+     x="0"
+     height="47.007641"
+     width="211.66666"
+     id="rect1296-9-4"
+     style="display:inline;opacity:0.998;fill:#ffe2f9;fill-opacity:1;stroke:none;stroke-width:0.413839;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000" />
+  <g
+     id="g2083"
+     transform="translate(-2.2195157,0.88786077)">
+    <path
+       id="path1261-7-5"
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient1516);fill-opacity:1;stroke:none;stroke-width:0.0248163;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 67.404399,100.61813 c -8.848433,0 -16.026425,7.1782 -16.026425,16.02663 0,8.84843 7.177992,16.02643 16.026425,16.02643 8.848432,0 16.026582,-7.178 16.026582,-16.02643 0,-8.84843 -7.17815,-16.02663 -16.026582,-16.02663 z m 0.001,0.0166 c 8.59348,0 15.553928,7.4165 15.553928,16.00998 0,4.02819 -1.412016,7.59847 -3.92233,10.3605 -0.584557,-0.46072 -2.073408,-1.84175 -1.667687,-4.2989 -7.721898,-0.72195 -15.068228,0.49183 -22.035097,3.74914 0.02269,0.0279 0.04369,0.0571 0.0665,0.0847 -2.218642,-2.68855 -3.551058,-6.1358 -3.551058,-9.89544 0,-8.59348 6.962184,-16.00998 15.555663,-16.00998 z m 2.150375,2.33639 c -6.848062,2.94931 -9.227737,6.72524 -12.263769,9.58929 3.274519,2.00116 7.031337,3.61855 9.379853,7.01703 l 2.394869,-1.11371 z m 3.401479,14.9747 c -2.471253,0.65052 -5.101454,1.68036 -7.630892,3.2442 l -1.892424,0.0709 c 0.868134,-0.78294 2.690908,-3.10206 0.658248,-2.07943 -2.13886,1.2673 -6.111353,5.20216 -6.801393,5.89602 1.018041,-0.41549 1.078518,-0.51586 3.268778,-1.11363 l 2.239502,-2.03906 1.482529,-0.0428 c -0.698679,0.49621 -1.35984,1.03882 -1.965352,1.63162 3.903329,-1.26987 7.766832,-1.51313 11.948593,-1.46172 -0.105204,-0.0997 0.09526,-2.58541 -1.655976,-3.19121 z m 0.493975,0.0285 -0.266845,0.70099 c 1.549327,0.59915 1.42108,2.55028 1.563403,3.36459 l 2.760693,0.17698 c 0.307506,-0.93592 1.245607,-2.2184 2.410861,-2.73989 l 0.350608,-0.82877 c -4.5011,-0.70619 -4.814964,-0.50446 -6.81872,-0.6739 z"
+       sodipodi:nodetypes="sssssssccccsssccccccccccccccccccccccccc"
+       inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       aria-label="KENU"
+       id="text1300-6-6"
+       style="font-style:normal;font-weight:normal;font-size:273.785px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient1640);fill-opacity:1;stroke:none;stroke-width:1.42596"
+       transform="matrix(0.11519679,0,0,0.11519679,43.123357,94.105916)"
+       inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         style="fill:url(#linearGradient2031)"
+         id="g1656">
+        <path
+           id="path1340-2-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:273.785px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient1660);fill-opacity:1;stroke-width:5.38945"
+           d="m 1427.4805,3297.3574 v 808.4199 h 104.5879 v -381.4726 l 7.0742,-8.5899 159.6113,176.8711 90.4941,213.1914 h 126.8204 l -116.334,-263.7285 -192.3809,-212.2285 248.084,-332.4629 h -132.3789 l -190.9902,254.6524 v -254.6524 z m 610.3554,0 -0.789,357.5235 -26.3965,47.3183 27.1055,44.8574 0.08,358.7207 h 435.5371 v -105.0937 h -330.9472 v -247.0742 h 114.9472 l 25.418,-52.4688 -25.418,-52.1211 h -114.9472 v -247.0722 h 330.9472 v -104.5899 z m 573.9786,0 v 808.4199 h 104.5898 v -640.0839 l 334.3965,343.2636 3.625,296.8203 h 91.4512 v -808.4199 h -105.0938 v 347.0098 l -333.4727,-347.0098 z m 685.1367,0 v 540.125 c 0,75.7894 26.78,140.6327 80.3379,194.5274 53.8946,53.5578 118.7359,80.3359 194.5254,80.3359 75.7893,0 140.6305,-26.9471 194.5253,-80.8418 44.4632,-44.7999 71.2434,-99.7044 80.3379,-164.7148 V 3297.3574 H 3741.582 v 540.125 c 0,46.821 -16.5052,86.7376 -49.5156,119.7481 -33.0104,33.0105 -73.094,49.5156 -120.2519,49.5156 -46.821,0 -86.9046,-16.5051 -120.252,-49.5156 -33.0105,-33.3474 -49.5156,-73.2639 -49.5156,-119.7481 v -540.125 z"
+           transform="matrix(0.26458333,0,0,0.26458333,37.570865,-816.12756)" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.75967px;line-height:1.25;font-family:sans-serif;letter-spacing:1.11493px;word-spacing:0px;display:inline;fill:#ff0166;fill-opacity:1;stroke:none;stroke-width:0.168992"
+       x="90.598701"
+       y="132.56642"
+       id="text1304-8-8"
+       inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1302-8-8"
+         x="90.598701"
+         y="132.56642"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.75967px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0166;fill-opacity:1;stroke-width:0.168992"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">CASUAL SURFWEAR</tspan></text>
+  </g>
+  <inkscape:templateinfo>
+    <inkscape:name>Portfolio_avec_guides</inkscape:name>
+    <inkscape:author>Clément CANUTO</inkscape:author>
+    <inkscape:date>2020-06-04</inkscape:date>
+  </inkscape:templateinfo>
+</svg>
